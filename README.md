@@ -1,0 +1,3 @@
+# BELAJAR-JAVA-3-tipe-data-dalam-java
+kompile dengan javac
+dan jalankan dengan java...
